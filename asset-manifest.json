@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/deco-rush.github.io/static/css/main.24f01fd2.chunk.css",
-    "main.js": "/deco-rush.github.io/static/js/main.229afe00.chunk.js",
-    "main.js.map": "/deco-rush.github.io/static/js/main.229afe00.chunk.js.map",
+    "main.css": "/deco-rush.github.io/static/css/main.f29e55a1.chunk.css",
+    "main.js": "/deco-rush.github.io/static/js/main.e731390f.chunk.js",
+    "main.js.map": "/deco-rush.github.io/static/js/main.e731390f.chunk.js.map",
     "runtime-main.js": "/deco-rush.github.io/static/js/runtime-main.a4b419b2.js",
     "runtime-main.js.map": "/deco-rush.github.io/static/js/runtime-main.a4b419b2.js.map",
     "static/css/2.490fdea8.chunk.css": "/deco-rush.github.io/static/css/2.490fdea8.chunk.css",
-    "static/js/2.03e69653.chunk.js": "/deco-rush.github.io/static/js/2.03e69653.chunk.js",
-    "static/js/2.03e69653.chunk.js.map": "/deco-rush.github.io/static/js/2.03e69653.chunk.js.map",
+    "static/js/2.b6f7f57d.chunk.js": "/deco-rush.github.io/static/js/2.b6f7f57d.chunk.js",
+    "static/js/2.b6f7f57d.chunk.js.map": "/deco-rush.github.io/static/js/2.b6f7f57d.chunk.js.map",
     "static/js/3.b7bd7387.chunk.js": "/deco-rush.github.io/static/js/3.b7bd7387.chunk.js",
     "static/js/3.b7bd7387.chunk.js.map": "/deco-rush.github.io/static/js/3.b7bd7387.chunk.js.map",
     "index.html": "/deco-rush.github.io/index.html",
     "static/css/2.490fdea8.chunk.css.map": "/deco-rush.github.io/static/css/2.490fdea8.chunk.css.map",
-    "static/css/main.24f01fd2.chunk.css.map": "/deco-rush.github.io/static/css/main.24f01fd2.chunk.css.map",
-    "static/js/2.03e69653.chunk.js.LICENSE.txt": "/deco-rush.github.io/static/js/2.03e69653.chunk.js.LICENSE.txt",
+    "static/css/main.f29e55a1.chunk.css.map": "/deco-rush.github.io/static/css/main.f29e55a1.chunk.css.map",
+    "static/js/2.b6f7f57d.chunk.js.LICENSE.txt": "/deco-rush.github.io/static/js/2.b6f7f57d.chunk.js.LICENSE.txt",
     "static/media/tailwind.css": "/deco-rush.github.io/static/media/background-1920x1280.20a2d875.jpg",
     "static/media/all.min.css": "/deco-rush.github.io/static/media/fa-solid-900.eeccf4f6.woff",
     "static/media/team-1-800x800.fa5a7ac2.jpg": "/deco-rush.github.io/static/media/team-1-800x800.fa5a7ac2.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.a4b419b2.js",
     "static/css/2.490fdea8.chunk.css",
-    "static/js/2.03e69653.chunk.js",
-    "static/css/main.24f01fd2.chunk.css",
-    "static/js/main.229afe00.chunk.js"
+    "static/js/2.b6f7f57d.chunk.js",
+    "static/css/main.f29e55a1.chunk.css",
+    "static/js/main.e731390f.chunk.js"
   ]
 }
